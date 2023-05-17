@@ -1,1 +1,1 @@
-# Minha primeira aplicação web
+# Minha primeira aplicação mobile 📱
